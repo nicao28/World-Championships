@@ -1,4 +1,3 @@
-# World-Championships
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -156,3 +155,67 @@
       Me Contacter
     </button>
   </header>
+
+  <!-- 🔗 Menu -->
+  <nav>
+    <a href="#bio">Biographie</a>
+    <a href="#palmares">Palmarès</a>
+    <a href="#galerie">Galerie</a>
+    <a href="#video">Vidéos</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <!-- 👤 Biographie -->
+  <section id="bio" class="card">
+    <h2>Biographie</h2>
+    <p>
+      [Ton prénom & nom], champion(ne) de golf, a commencé à jouer dès l’âge de [âge].  
+      Son parcours l’a mené(e) des greens locaux jusqu’aux tournois internationaux.  
+      Avec discipline et passion, il/elle s’impose aujourd’hui comme une figure inspirante du golf.
+    </p>
+  </section>
+
+  <!-- 🏆 Palmarès -->
+  <section id="palmares" class="card">
+    <h2>Palmarès</h2>
+    <ul>
+      <li>🏆 Vainqueur - Open [année]</li>
+      <li>🥈 Vice-champion - Championnat [année]</li>
+      <li>🎯 Sélectionné(e) - Tournoi International [année]</li>
+    </ul>
+  </section>
+
+  <!-- 📸 Galerie -->
+  <section id="galerie" class="card">
+    <h2>Galerie</h2>
+    <div class="gallery">
+      <img src="https://via.placeholder.com/300x200" alt="Golf 1">
+      <img src="https://via.placeholder.com/300x200" alt="Golf 2">
+      <img src="https://via.placeholder.com/300x200" alt="Golf 3">
+    </div>
+  </section>
+
+  <!-- 🎥 Vidéo -->
+  <section id="video" class="card video">
+    <h2>Vidéos</h2>
+    <iframe src="https://www.youtube.com/embed/tgbNymZ7vqY" allowfullscreen></iframe>
+    <p>Découvrez mes meilleurs moments et entraînements.</p>
+  </section>
+
+  <!-- 📩 Contact -->
+  <section id="contact" class="card">
+    <h2>Contact</h2>
+    <p>Email : <a href="mailto:contact@championdegolf.com">contact@championdegolf.com</a></p>
+    <p>Instagram : <a href="#">@championdegolf</a></p>
+    <p>LinkedIn : <a href="#">Profil LinkedIn</a></p>
+  </section>
+
+  <!-- ⚑ Pied de page -->
+  <footer>
+    <p>&copy; 2025 Champion(ne) de Golf - Tous droits réservés</p>
+  </footer>
+
+</body>
+</html>
+![9_17_20_52_46](https://github.com/user-attachments/assets/63257d2d-d63f-4ce7-b64a-7fb7e7369508)
+
